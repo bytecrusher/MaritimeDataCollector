@@ -13,11 +13,10 @@ The **MDC** will send these data even periodically or event driven to the server
 
 ## Folder description
 
-- **images** contains images for readme documentation
+- **images** contains images for readme.md documentation
 - **include** currently empty
 - **lib** currently empty (for private librarys)
 - **src** source files for ESP32
-- **website** files for the web project (PHP, JS, CSS, SQL, ...)
 
 ---
 ## **MDC** (MaritimeDataCollector)
@@ -47,7 +46,6 @@ Maybe the OneWire library from Paul Stroffregen will be installed. If yes, unins
 - [x] after read data go to sleep for a while to save energy.  
 - [x] OTA (Over tha air) Firmware update.
 - [x] DS18B20 Temperature Sensor.
-- [x] DS2438 Batterie monitor.
 - [ ] Input for Alarm signal.
 - [ ] input for tank sensors.
 - [ ] Output for Relais.
