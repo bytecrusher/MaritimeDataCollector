@@ -10,5 +10,5 @@
 #define APIKEYVALUE "TBD"
 
 // REPLACE with your Domain name and URL path or IP address with path
-#define SERVERNAME "http://yourservername/maritimedataserver_private/receiver/receivejson.php"
-#define UPDATESERVER "http://yourservername/maritimedataserver_private/otafirmware/getupdate.php"
+#define SERVERNAME "http://yourservername/maritimedataserver/receiver/receivejson.php"
+#define UPDATESERVER "http://yourservername/maritimedataserver/otafirmware/getupdate.php"
